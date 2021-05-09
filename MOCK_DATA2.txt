@@ -1,0 +1,15 @@
+0378-5575,Anastassia,Indonesia,08-02-1954,152-893-7158,Female,A+,1,cholera,y
+52125-822,Dani,Mexico,08-01-1957,180-204-9722,Female,A+,2,dengue,y
+53808-0799,Melisande,Poland,8/27/2003,577-808-8271,Female,A+,3,cholera,n
+63629-3021,Sky,China,6/23/1977,271-821-9864,Male,Sr,4,dengue,n
+10096-0226,Deonne,Egypt,01-12-1945,336-157-9155,Female,Sr,5,dengue,n
+49999-016,Malachi,Colombia,7/14/1962,754-735-2754,Male,Sr,6,kwashiorkar,y
+54868-2126,Misha,Portugal,8/28/1966,578-325-5259,Female,Sr,7,kwashiorkar,y
+42877-001,Marchelle,Pakistan,11-04-2010,456-126-2581,Female,O-,8,cholera,n
+20276-044,Jodi,Iceland,9/20/1979,388-430-7592,Male,O-,9,asthma,y
+67510-0082,Amberly,United States,06-05-1956,206-284-2221,Female,A+,10,kwashiorkar,y
+62211-338,Alessandra,Russia,5/29/1957,891-721-3096,Female,A+,11,asthma,y
+52686-303,Brendan,Indonesia,07-07-1970,585-632-5165,Male,A+,12,asthma,y
+55154-5390,Kirsteni,Canada,01-06-1995,869-893-9935,Female,AB+,13,asthma,y
+43269-628,Kaylee,Russia,04-10-1971,418-830-4518,Female,AB+,14,asthma,y
+0113-0396,Maggie,United States,11/22/1961,214-288-0476,Female,O+,15,cholera,n
